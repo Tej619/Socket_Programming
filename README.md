@@ -87,14 +87,14 @@ c : LIST
 s : 200 OK
 The list of records in the book:
 1001    Tejas Vaity     313-266-1654
-1002    Jinhua Guo      313-583-6439
+1002    MonkeyD Fuffy   313-123-3455
 1003    Sayojya Patil   313-431-2341
 
 c : list
 s : 200 OK
 The list of records in the book:
 1001    Tejas Vaity     313-266-1654
-1002    Jinhua Guo      313-583-6439
+1002    MonkeyD Fuffy   313-123-3455
 1003    Sayojya Patil   313-431-2341
 
 ```
